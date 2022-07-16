@@ -1,0 +1,6 @@
+   Integer, Parameter :: float = selected_real_kind(12)  ! double precision
+   Integer, Parameter :: floatd = selected_real_kind(12)  ! double precision
+   Integer, Parameter :: floatq = selected_real_kind(28) ! quad. precision
+   Integer, parameter :: iout=3,iin=2,ilog=8,iout2=9
+   Character, Parameter :: tb=achar(9)
+

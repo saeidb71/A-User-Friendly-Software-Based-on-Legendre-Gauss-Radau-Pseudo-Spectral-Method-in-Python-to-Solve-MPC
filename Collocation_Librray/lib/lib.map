@@ -1,0 +1,1085 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+                              arrayprint.o (_gfortran_transfer_real_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+                              arrayprint.o (_gfortran_transfer_real128_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+                              orthpoly.o (_gfortran_transfer_logical_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+                              arrayprint.o (_gfortran_transfer_integer_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+                              arrayprint.o (_gfortran_transfer_character_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+                              orthpoly.o (_gfortran_transfer_array_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+                              arrayprint.o (_gfortran_string_len_trim)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+                              orthpoly.o (_gfortran_stop_string)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+                              arrayprint.o (_gfortran_st_write_done)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+                              arrayprint.o (_gfortran_st_write)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+                              arrayprint.o (_gfortran_st_open)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+                              arrayprint.o (_gfortran_shape_4)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+                              orthpoly.o (_gfortran_matmul_r8)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+                              arrayprint.o (_gfortran_concat_string)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000002.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o) (_head_cyggfortran_4_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001567.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000002.o) (cyggfortran_4_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+                              orthpoly.o (__trunctfdf2)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+                              orthpoly.o (__subtf3)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+                              orthpoly.o (__powidf2)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+                              orthpoly.o (__floatsitf)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+                              orthpoly.o (__extenddftf2)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+                              orthpoly.o (__divtf3)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+                              orthpoly.o (__addtf3)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000000.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o) (_head_cyggcc_s_seh_1_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000123.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000000.o) (cyggcc_s_seh_1_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+                              orthpoly.o (powq)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000002.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o) (_head_cygquadmath_0_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000124.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000002.o) (cygquadmath_0_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000180.o)
+                              orthpoly.o (acos)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000333.o)
+                              orthpoly.o (cos)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000462.o)
+                              orthpoly.o (exp)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000830.o)
+                              orthpoly.o (j0)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000832.o)
+                              orthpoly.o (j1)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000898.o)
+                              orthpoly.o (lround)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001038.o)
+                              orthpoly.o (pow)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001366.o)
+                              orthpoly.o (sin)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001480.o)
+                              orthpoly.o (tan)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001500.o)
+                              orthpoly.o (tgamma)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o)
+                              (__imp___cxa_atexit)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000180.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000180.o) (__imp_acos)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000333.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000333.o) (__imp_cos)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000462.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000462.o) (__imp_exp)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000579.o)
+                              (__imp_free)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000830.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000830.o) (__imp_j0)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000832.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000832.o) (__imp_j1)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000898.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000898.o) (__imp_lround)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000909.o)
+                              (__imp_malloc)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000926.o)
+                              (__imp_memcpy)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000931.o)
+                              (__imp_memset)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001038.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001038.o) (__imp_pow)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001366.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001366.o) (__imp_sin)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001480.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001480.o) (__imp_tan)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001500.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001500.o) (__imp_tgamma)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000015.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o (__cxa_atexit)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000579.o)
+                              arrayprint.o (free)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000909.o)
+                              arrayprint.o (malloc)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000926.o)
+                              orthpoly.o (memcpy)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000931.o)
+                              orthpoly.o (memset)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+                              (_cygwin_dll_entry)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o) (DllMain)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000000.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o) (_head_cygwin1_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000373.o)
+                              (__imp_cygwin_detach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001717.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000000.o) (cygwin1_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000373.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o) (cygwin_detach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o) (cygwin_attach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000403.o)
+                              (__imp_dll_dllcrt0)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000403.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o) (dll_dllcrt0)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o) (_cygwin_crt0_common)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain0)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain1)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain2)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain3)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (_pei386_runtime_relocator)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (__imp__impure_ptr)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000257.o)
+                              (__imp_calloc)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000375.o)
+                              (__imp_cygwin_internal)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001015.o)
+                              (__imp_posix_memalign)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001196.o)
+                              (__imp_realloc)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000257.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (calloc)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000375.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_internal)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d001015.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (posix_memalign)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d001196.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (realloc)
+/usr/lib/w32api/libkernel32.a(drpss00650.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (GetModuleHandleA)
+/usr/lib/w32api/libkernel32.a(drpsh.o)
+                              /usr/lib/w32api/libkernel32.a(drpss00650.o) (_head_lib64_libkernel32_a)
+/usr/lib/w32api/libkernel32.a(drpst.o)
+                              /usr/lib/w32api/libkernel32.a(drpsh.o) (__lib64_libkernel32_a_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (__DTOR_LIST__)
+
+Discarded input sections
+
+ .drectve       0x0000000000000000       0x3c /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x00000005b9d40000                __image_base__ = 0x5b9d40000
+                0x0000000000000000                __dll__ = 0x0
+                0x00000005b9d40000                __ImageBase = 0x5b9d40000
+                0x0000000000001000                __section_alignment__ = 0x1000
+                0x0000000000000200                __file_alignment__ = 0x200
+                0x0000000000000004                __major_os_version__ = 0x4
+                0x0000000000000000                __minor_os_version__ = 0x0
+                0x0000000000000000                __major_image_version__ = 0x0
+                0x0000000000000000                __minor_image_version__ = 0x0
+                0x0000000000000005                __major_subsystem_version__ = 0x5
+                0x0000000000000002                __minor_subsystem_version__ = 0x2
+                0x0000000000000003                __subsystem__ = 0x3
+                0x0000000000200000                __size_of_stack_reserve__ = 0x200000
+                0x0000000000001000                __size_of_stack_commit__ = 0x1000
+                0x0000000000100000                __size_of_heap_reserve__ = 0x100000
+                0x0000000000001000                __size_of_heap_commit__ = 0x1000
+                0x0000000000000000                __loader_flags__ = 0x0
+                0x0000000000000000                __dll_characteristics__ = 0x0
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+LOAD quad.o
+LOAD arrayprint.o
+LOAD orthpoly.o
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a
+LOAD /usr/lib/w32api/libadvapi32.a
+LOAD /usr/lib/w32api/libshell32.a
+LOAD /usr/lib/w32api/libuser32.a
+LOAD /usr/lib/w32api/libkernel32.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+                0x0000000000000430                . = SIZEOF_HEADERS
+                0x0000000000001000                . = ALIGN (__section_alignment__)
+
+.text           0x00000005b9d41000    0x37c00
+ *(.init)
+ *(.text)
+ .text          0x00000005b9d41000       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+                0x00000005b9d41000                __gcc_register_frame
+                0x00000005b9d41020                __gcc_deregister_frame
+ .text          0x00000005b9d41030       0xc0 quad.o
+                0x00000005b9d41030                quadrature_
+ .text          0x00000005b9d410f0     0xd8c0 arrayprint.o
+                0x00000005b9d410f0                __array_print_MOD_arrayprintq_aaaa
+                0x00000005b9d42550                __array_print_MOD_arrayprintq_aava
+                0x00000005b9d42a10                __array_print_MOD_arrayprintq_avva
+                0x00000005b9d42f40                __array_print_MOD_arrayprintq_avaa
+                0x00000005b9d43440                __array_print_MOD_arrayprintq_vvvv
+                0x00000005b9d439b0                __array_print_MOD_arrayprintq_vvva
+                0x00000005b9d43f30                __array_print_MOD_arrayprintq_vvaa
+                0x00000005b9d44480                __array_print_MOD_arrayprintq_vava
+                0x00000005b9d449a0                __array_print_MOD_arrayprintq_vaaa
+                0x00000005b9d44ee0                __array_print_MOD_arrayprinti
+                0x00000005b9d46310                __array_print_MOD_arrayprint_aaaa
+                0x00000005b9d47750                __array_print_MOD_arrayprint_avvv
+                0x00000005b9d47c90                __array_print_MOD_arrayprint_vavv
+                0x00000005b9d481d0                __array_print_MOD_arrayprint_vaav
+                0x00000005b9d486b0                __array_print_MOD_arrayprint_vvav
+                0x00000005b9d48c00                __array_print_MOD_arrayprint_avav
+                0x00000005b9d490f0                __array_print_MOD_arrayprint_aavv
+                0x00000005b9d495d0                __array_print_MOD_arrayprint_aaav
+                0x00000005b9d49a70                __array_print_MOD_arrayprint_vvvv
+                0x00000005b9d49fd0                __array_print_MOD_arrayprint_aava
+                0x00000005b9d4a4a0                __array_print_MOD_arrayprint_avva
+                0x00000005b9d4a9b0                __array_print_MOD_arrayprint_vvva
+                0x00000005b9d4af10                __array_print_MOD_arrayprint_vava
+                0x00000005b9d4b420                __array_print_MOD_arrayprint_vvaa
+                0x00000005b9d4b980                __array_print_MOD_arrayprint_avaa
+                0x00000005b9d4be80                __array_print_MOD_arrayprint_vaaa
+                0x00000005b9d4c3c0                __array_print_MOD_vectorprinti
+                0x00000005b9d4cea0                __array_print_MOD_vectorprintq
+                0x00000005b9d4d990                __array_print_MOD_vectorprintr
+                0x00000005b9d4e490                __array_print_MOD_openfile
+ .text          0x00000005b9d4e9b0    0x29920 orthpoly.o
+                0x00000005b9d59300                __orth_poly_MOD_firstlt
+                0x00000005b9d59380                __orth_poly_MOD_polyset
+                0x00000005b9d593f0                __orth_poly_MOD_d_jacobi
+                0x00000005b9d59660                __orth_poly_MOD_x_jacobi
+                0x00000005b9d5a950                __orth_poly_MOD_legendre_transform
+                0x00000005b9d5d170                __orth_poly_MOD_jacobi_lead
+                0x00000005b9d5d560                __orth_poly_MOD_jacobi_ends
+                0x00000005b9d5d7c0                __orth_poly_MOD_jacobi_deriv
+                0x00000005b9d5e850                __orth_poly_MOD_jacobi_deriv2
+                0x00000005b9d5e9c0                __orth_poly_MOD_jacobi_deriv1
+                0x00000005b9d5eba0                __orth_poly_MOD_legendre_deriv
+                0x00000005b9d5f140                __orth_poly_MOD_legendre
+                0x00000005b9d5fb10                __orth_poly_MOD_jacobi_series
+                0x00000005b9d60740                __orth_poly_MOD_jacobi_all
+                0x00000005b9d60aa0                __orth_poly_MOD_jacobi_rec
+                0x00000005b9d65010                __orth_poly_MOD_jacobi_pm
+                0x00000005b9d671a0                __orth_poly_MOD_rootestimate
+                0x00000005b9d69240                __orth_poly_MOD_rootestimate0
+                0x00000005b9d69640                __orth_poly_MOD_jacobi_pn_update
+                0x00000005b9d6a470                __orth_poly_MOD_jacobi_weights
+                0x00000005b9d70d30                __orth_poly_MOD_jacobi_iter
+                0x00000005b9d72520                __orth_poly_MOD_jacobi_xroot
+                0x00000005b9d753f0                __orth_poly_MOD_jacobi_quad
+                0x00000005b9d759b0                __orth_poly_MOD_jacobi_transform
+                0x00000005b9d78050                __orth_poly_MOD_jacobi_quadrature
+ .text          0x00000005b9d782d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+                0x00000005b9d782d0                _gfortran_transfer_real_write
+ .text          0x00000005b9d782d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+                0x00000005b9d782d8                _gfortran_transfer_real128_write
+ .text          0x00000005b9d782e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+                0x00000005b9d782e0                _gfortran_transfer_logical_write
+ .text          0x00000005b9d782e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+                0x00000005b9d782e8                _gfortran_transfer_integer_write
+ .text          0x00000005b9d782f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+                0x00000005b9d782f0                _gfortran_transfer_character_write
+ .text          0x00000005b9d782f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+                0x00000005b9d782f8                _gfortran_transfer_array_write
+ .text          0x00000005b9d78300        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+                0x00000005b9d78300                _gfortran_string_len_trim
+ .text          0x00000005b9d78308        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+                0x00000005b9d78308                _gfortran_stop_string
+ .text          0x00000005b9d78310        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+                0x00000005b9d78310                _gfortran_st_write_done
+ .text          0x00000005b9d78318        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+                0x00000005b9d78318                _gfortran_st_write
+ .text          0x00000005b9d78320        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+                0x00000005b9d78320                _gfortran_st_open
+ .text          0x00000005b9d78328        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+                0x00000005b9d78328                _gfortran_shape_4
+ .text          0x00000005b9d78330        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+                0x00000005b9d78330                _gfortran_matmul_r8
+ .text          0x00000005b9d78338        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+                0x00000005b9d78338                _gfortran_concat_string
+ .text          0x00000005b9d78340        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+                0x00000005b9d78340                __trunctfdf2
+ .text          0x00000005b9d78348        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+                0x00000005b9d78348                __subtf3
+ .text          0x00000005b9d78350        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+                0x00000005b9d78350                __powidf2
+ .text          0x00000005b9d78358        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+                0x00000005b9d78358                __floatsitf
+ .text          0x00000005b9d78360        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+                0x00000005b9d78360                __extenddftf2
+ .text          0x00000005b9d78368        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+                0x00000005b9d78368                __divtf3
+ .text          0x00000005b9d78370        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+                0x00000005b9d78370                __addtf3
+ .text          0x00000005b9d78378        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+                0x00000005b9d78378                powq
+ .text          0x00000005b9d78380       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000180.o)
+                0x00000005b9d78380                acos
+ .text          0x00000005b9d78390       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000333.o)
+                0x00000005b9d78390                cos
+ .text          0x00000005b9d783a0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000462.o)
+                0x00000005b9d783a0                exp
+ .text          0x00000005b9d783b0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000830.o)
+                0x00000005b9d783b0                j0
+ .text          0x00000005b9d783c0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000832.o)
+                0x00000005b9d783c0                j1
+ .text          0x00000005b9d783d0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d000898.o)
+                0x00000005b9d783d0                lround
+ .text          0x00000005b9d783e0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001038.o)
+                0x00000005b9d783e0                pow
+ .text          0x00000005b9d783f0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001366.o)
+                0x00000005b9d783f0                sin
+ .text          0x00000005b9d78400       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001480.o)
+                0x00000005b9d78400                tan
+ .text          0x00000005b9d78410       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libm.a(t-d001500.o)
+                0x00000005b9d78410                tgamma
+ .text          0x00000005b9d78420       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000015.o)
+                0x00000005b9d78420                __cxa_atexit
+ .text          0x00000005b9d78430       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000579.o)
+                0x00000005b9d78430                free
+ .text          0x00000005b9d78440       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000909.o)
+                0x00000005b9d78440                malloc
+ .text          0x00000005b9d78450       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000926.o)
+                0x00000005b9d78450                memcpy
+ .text          0x00000005b9d78460       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000931.o)
+                0x00000005b9d78460                memset
+ .text          0x00000005b9d78470       0xf0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+                0x00000005b9d78490                _cygwin_dll_entry
+                0x00000005b9d78550                _cygwin_noncygwin_dll_entry
+ .text          0x00000005b9d78560       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+                0x00000005b9d78560                DllMain
+ .text          0x00000005b9d78570       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000373.o)
+                0x00000005b9d78570                cygwin_detach_dll
+ .text          0x00000005b9d78580       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+                0x00000005b9d78580                cygwin_attach_dll
+ .text          0x00000005b9d785b0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000403.o)
+                0x00000005b9d785b0                dll_dllcrt0
+ .text          0x00000005b9d785c0      0x3d0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x00000005b9d785c0                _cygwin_crt0_common
+ .text          0x00000005b9d78990       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+                0x00000005b9d78990                cygwin_premain0
+ .text          0x00000005b9d789a0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+                0x00000005b9d789a0                cygwin_premain1
+ .text          0x00000005b9d789b0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+                0x00000005b9d789b0                cygwin_premain2
+ .text          0x00000005b9d789c0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+                0x00000005b9d789c0                cygwin_premain3
+ .text          0x00000005b9d789d0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+                0x00000005b9d789d0                _pei386_runtime_relocator
+ .text          0x00000005b9d789e0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+ .text          0x00000005b9d789e0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000257.o)
+                0x00000005b9d789e0                calloc
+ .text          0x00000005b9d789f0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d000375.o)
+                0x00000005b9d789f0                cygwin_internal
+ .text          0x00000005b9d78a00       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d001015.o)
+                0x00000005b9d78a00                posix_memalign
+ .text          0x00000005b9d78a10       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(t-d001196.o)
+                0x00000005b9d78a10                realloc
+ .text          0x00000005b9d78a20        0x8 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+                0x00000005b9d78a20                GetModuleHandleA
+ *fill*         0x00000005b9d78a28        0x8 
+ .text          0x00000005b9d78a30        0x0 /usr/lib/w32api/libkernel32.a(drpsh.o)
+ .text          0x00000005b9d78a30        0x0 /usr/lib/w32api/libkernel32.a(drpst.o)
+ .text          0x00000005b9d78a30        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+ .text          0x00000005b9d78a30        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+ *(SORT(.text$*))
+ *(.text.*)
+ .text.startup  0x00000005b9d78a30       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x00000005b9d78a40                . = ALIGN (0x8)
+                0x00000005b9d78a40                ___CTOR_LIST__ = .
+                0x00000005b9d78a40                __CTOR_LIST__ = .
+                0x00000005b9d78a40        0x4 LONG 0xffffffffffffffff
+                0x00000005b9d78a44        0x4 LONG 0xffffffffffffffff
+ *(.ctors)
+ *(.ctor)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x00000005b9d78a48        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+                0x00000005b9d78a50        0x4 LONG 0x0
+                0x00000005b9d78a54        0x4 LONG 0x0
+                0x00000005b9d78a58                ___DTOR_LIST__ = .
+                0x00000005b9d78a58                __DTOR_LIST__ = .
+                0x00000005b9d78a58        0x4 LONG 0xffffffffffffffff
+                0x00000005b9d78a5c        0x4 LONG 0xffffffffffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT(.dtors.*))
+                0x00000005b9d78a60        0x4 LONG 0x0
+                0x00000005b9d78a64        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                [!provide]                        PROVIDE (etext, .)
+ *(.gcc_except_table)
+
+.data           0x00000005b9d79000      0x200
+                0x00000005b9d79000                __data_start__ = .
+ *(.data)
+ .data          0x00000005b9d79000       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+                0x00000005b9d79000                __dso_handle
+ .data          0x00000005b9d79010        0x0 quad.o
+ .data          0x00000005b9d79010        0x0 arrayprint.o
+ .data          0x00000005b9d79010       0x10 orthpoly.o
+                0x00000005b9d79010                __orth_poly_MOD_ultra_method
+ .data          0x00000005b9d79020        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .data          0x00000005b9d79020        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .data          0x00000005b9d79020        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .data          0x00000005b9d79020       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x00000005b9d79020                __cygwin_cxx_malloc
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/w32api/libkernel32.a(drpsh.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/w32api/libkernel32.a(drpst.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+ .data          0x00000005b9d79060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+ *(.data2)
+ *(SORT(.data$*))
+ *(.jcr)
+                0x00000005b9d79060                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x00000005b9d7a000     0x1800
+ *(.rdata)
+ .rdata         0x00000005b9d7a000       0x20 arrayprint.o
+ .rdata         0x00000005b9d7a020     0x14c0 orthpoly.o
+ *(SORT(.rdata$*))
+ .rdata$zzz     0x00000005b9d7b4e0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+ .rdata$zzz     0x00000005b9d7b500       0x20 quad.o
+ .rdata$zzz     0x00000005b9d7b520       0x20 arrayprint.o
+ .rdata$zzz     0x00000005b9d7b540       0x20 orthpoly.o
+ .rdata$zzz     0x00000005b9d7b560       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .rdata$zzz     0x00000005b9d7b5a0       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .rdata$zzz     0x00000005b9d7b5e0       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .rdata$zzz     0x00000005b9d7b620       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .rdata$zzz     0x00000005b9d7b660       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .rdata$zzz     0x00000005b9d7b6a0       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .rdata$zzz     0x00000005b9d7b6e0       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .rdata$zzz     0x00000005b9d7b720       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .rdata$zzz     0x00000005b9d7b760       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .rdata$zzz     0x00000005b9d7b7a0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+ .rdata$zzz     0x00000005b9d7b7c0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+                0x00000005b9d7b7e0                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x00000005b9d7b7e0                __rt_psrelocs_end = .
+                0x0000000000000000                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x00000005b9d7b7e0                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x00000005b9d7b7e0                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x00000005b9d7b7e0                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x00000005b9d7b7e0                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.buildid        0x00000005b9d7c000      0x200
+ .buildid       0x00000005b9d7c000       0x35 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+
+.eh_frame
+ *(.eh_frame*)
+
+.pdata          0x00000005b9d7d000      0x400
+ *(.pdata*)
+ .pdata         0x00000005b9d7d000       0x18 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+ .pdata         0x00000005b9d7d018        0xc quad.o
+ .pdata         0x00000005b9d7d024      0x168 arrayprint.o
+ .pdata         0x00000005b9d7d18c      0x18c orthpoly.o
+ .pdata         0x00000005b9d7d318       0x24 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .pdata         0x00000005b9d7d33c        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .pdata         0x00000005b9d7d348        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .pdata         0x00000005b9d7d354        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .pdata         0x00000005b9d7d360        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .pdata         0x00000005b9d7d36c        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .pdata         0x00000005b9d7d378        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .pdata         0x00000005b9d7d384        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .pdata         0x00000005b9d7d390        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .pdata.startup
+                0x00000005b9d7d39c        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+
+.xdata          0x00000005b9d7e000      0xa00
+ *(.xdata*)
+ .xdata         0x00000005b9d7e000       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+ .xdata         0x00000005b9d7e010        0x8 quad.o
+ .xdata         0x00000005b9d7e018      0x2d0 arrayprint.o
+ .xdata         0x00000005b9d7e2e8      0x518 orthpoly.o
+ .xdata         0x00000005b9d7e800       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .xdata         0x00000005b9d7e810        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .xdata         0x00000005b9d7e814        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .xdata         0x00000005b9d7e81c        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .xdata         0x00000005b9d7e828        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .xdata         0x00000005b9d7e82c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .xdata         0x00000005b9d7e830        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .xdata         0x00000005b9d7e834        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .xdata         0x00000005b9d7e838        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .xdata.startup
+                0x00000005b9d7e83c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+
+.bss            0x00000005b9d7f000      0x1d0
+                0x00000005b9d7f000                __bss_start__ = .
+ *(.bss)
+ .bss           0x00000005b9d7f000        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtbeginS.o
+ .bss           0x00000005b9d7f000        0x0 quad.o
+ .bss           0x00000005b9d7f000        0x0 arrayprint.o
+ .bss           0x00000005b9d7f000       0x20 orthpoly.o
+                0x00000005b9d7f000                __orth_poly_MOD_thetafac
+                0x00000005b9d7f008                __orth_poly_MOD_jacobitype
+                0x00000005b9d7f010                __orth_poly_MOD_debug
+ .bss           0x00000005b9d7f020       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+                0x00000005b9d7f020                __dynamically_loaded
+ .bss           0x00000005b9d7f050        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ *fill*         0x00000005b9d7f050       0x10 
+ .bss           0x00000005b9d7f060      0x160 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .bss           0x00000005b9d7f1c0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x00000005b9d7f1c0                _fmode
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/w32api/libkernel32.a(drpsh.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/w32api/libkernel32.a(drpst.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+ .bss           0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/crtend.o
+ *(COMMON)
+ COMMON         0x00000005b9d7f1d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+                0x00000005b9d7f1d0                __bss_end__ = .
+
+.edata          0x00000005b9d80000      0xa00
+ *(.edata)
+ .edata         0x00000005b9d80000      0x9fe dll stuff
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x00000005b9d81000      0x800
+ SORT(*)(.idata$2)
+ .idata$2       0x00000005b9d81000       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000000.o)
+                0x00000005b9d81000                _head_cygwin1_dll
+ .idata$2       0x00000005b9d81014       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000000.o)
+                0x00000005b9d81014                _head_cyggcc_s_seh_1_dll
+ .idata$2       0x00000005b9d81028       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000002.o)
+                0x00000005b9d81028                _head_cyggfortran_4_dll
+ .idata$2       0x00000005b9d8103c       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000002.o)
+                0x00000005b9d8103c                _head_cygquadmath_0_dll
+ .idata$2       0x00000005b9d81050       0x14 /usr/lib/w32api/libkernel32.a(drpsh.o)
+                0x00000005b9d81050                _head_lib64_libkernel32_a
+ SORT(*)(.idata$3)
+                0x00000005b9d81064        0x4 LONG 0x0
+                0x00000005b9d81068        0x4 LONG 0x0
+                0x00000005b9d8106c        0x4 LONG 0x0
+                0x00000005b9d81070        0x4 LONG 0x0
+                0x00000005b9d81074        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x00000005b9d81078        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000000.o)
+ .idata$4       0x00000005b9d81078        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o)
+ .idata$4       0x00000005b9d81080        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+ .idata$4       0x00000005b9d81088        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000180.o)
+ .idata$4       0x00000005b9d81090        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000257.o)
+ .idata$4       0x00000005b9d81098        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000333.o)
+ .idata$4       0x00000005b9d810a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000373.o)
+ .idata$4       0x00000005b9d810a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000375.o)
+ .idata$4       0x00000005b9d810b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000403.o)
+ .idata$4       0x00000005b9d810b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000462.o)
+ .idata$4       0x00000005b9d810c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000579.o)
+ .idata$4       0x00000005b9d810c8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000830.o)
+ .idata$4       0x00000005b9d810d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000832.o)
+ .idata$4       0x00000005b9d810d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000898.o)
+ .idata$4       0x00000005b9d810e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000909.o)
+ .idata$4       0x00000005b9d810e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000926.o)
+ .idata$4       0x00000005b9d810f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000931.o)
+ .idata$4       0x00000005b9d810f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001015.o)
+ .idata$4       0x00000005b9d81100        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001038.o)
+ .idata$4       0x00000005b9d81108        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001196.o)
+ .idata$4       0x00000005b9d81110        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001366.o)
+ .idata$4       0x00000005b9d81118        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001480.o)
+ .idata$4       0x00000005b9d81120        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001500.o)
+ .idata$4       0x00000005b9d81128        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001717.o)
+ .idata$4       0x00000005b9d81130        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000000.o)
+ .idata$4       0x00000005b9d81130        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+ .idata$4       0x00000005b9d81138        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+ .idata$4       0x00000005b9d81140        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+ .idata$4       0x00000005b9d81148        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+ .idata$4       0x00000005b9d81150        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+ .idata$4       0x00000005b9d81158        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+ .idata$4       0x00000005b9d81160        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+ .idata$4       0x00000005b9d81168        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000123.o)
+ .idata$4       0x00000005b9d81170        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000002.o)
+ .idata$4       0x00000005b9d81170        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+ .idata$4       0x00000005b9d81178        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+ .idata$4       0x00000005b9d81180        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+ .idata$4       0x00000005b9d81188        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+ .idata$4       0x00000005b9d81190        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+ .idata$4       0x00000005b9d81198        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+ .idata$4       0x00000005b9d811a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+ .idata$4       0x00000005b9d811a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+ .idata$4       0x00000005b9d811b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+ .idata$4       0x00000005b9d811b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+ .idata$4       0x00000005b9d811c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+ .idata$4       0x00000005b9d811c8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+ .idata$4       0x00000005b9d811d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+ .idata$4       0x00000005b9d811d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+ .idata$4       0x00000005b9d811e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001567.o)
+ .idata$4       0x00000005b9d811e8        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000002.o)
+ .idata$4       0x00000005b9d811e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+ .idata$4       0x00000005b9d811f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000124.o)
+ .idata$4       0x00000005b9d811f8        0x0 /usr/lib/w32api/libkernel32.a(drpsh.o)
+ .idata$4       0x00000005b9d811f8        0x8 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+ .idata$4       0x00000005b9d81200        0x8 /usr/lib/w32api/libkernel32.a(drpst.o)
+                0x00000005b9d81208                __IAT_start__ = .
+ SORT(*)(.idata$5)
+ .idata$5       0x00000005b9d81208        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000000.o)
+ .idata$5       0x00000005b9d81208        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o)
+                0x00000005b9d81208                __imp___cxa_atexit
+ .idata$5       0x00000005b9d81210        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+                0x00000005b9d81210                __imp__impure_ptr
+ .idata$5       0x00000005b9d81218        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000180.o)
+                0x00000005b9d81218                __imp_acos
+ .idata$5       0x00000005b9d81220        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000257.o)
+                0x00000005b9d81220                __imp_calloc
+ .idata$5       0x00000005b9d81228        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000333.o)
+                0x00000005b9d81228                __imp_cos
+ .idata$5       0x00000005b9d81230        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000373.o)
+                0x00000005b9d81230                __imp_cygwin_detach_dll
+ .idata$5       0x00000005b9d81238        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000375.o)
+                0x00000005b9d81238                __imp_cygwin_internal
+ .idata$5       0x00000005b9d81240        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000403.o)
+                0x00000005b9d81240                __imp_dll_dllcrt0
+ .idata$5       0x00000005b9d81248        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000462.o)
+                0x00000005b9d81248                __imp_exp
+ .idata$5       0x00000005b9d81250        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000579.o)
+                0x00000005b9d81250                __imp_free
+ .idata$5       0x00000005b9d81258        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000830.o)
+                0x00000005b9d81258                __imp_j0
+ .idata$5       0x00000005b9d81260        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000832.o)
+                0x00000005b9d81260                __imp_j1
+ .idata$5       0x00000005b9d81268        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000898.o)
+                0x00000005b9d81268                __imp_lround
+ .idata$5       0x00000005b9d81270        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000909.o)
+                0x00000005b9d81270                __imp_malloc
+ .idata$5       0x00000005b9d81278        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000926.o)
+                0x00000005b9d81278                __imp_memcpy
+ .idata$5       0x00000005b9d81280        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000931.o)
+                0x00000005b9d81280                __imp_memset
+ .idata$5       0x00000005b9d81288        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001015.o)
+                0x00000005b9d81288                __imp_posix_memalign
+ .idata$5       0x00000005b9d81290        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001038.o)
+                0x00000005b9d81290                __imp_pow
+ .idata$5       0x00000005b9d81298        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001196.o)
+                0x00000005b9d81298                __imp_realloc
+ .idata$5       0x00000005b9d812a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001366.o)
+                0x00000005b9d812a0                __imp_sin
+ .idata$5       0x00000005b9d812a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001480.o)
+                0x00000005b9d812a8                __imp_tan
+ .idata$5       0x00000005b9d812b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001500.o)
+                0x00000005b9d812b0                __imp_tgamma
+ .idata$5       0x00000005b9d812b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001717.o)
+ .idata$5       0x00000005b9d812c0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000000.o)
+ .idata$5       0x00000005b9d812c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+                0x00000005b9d812c0                __imp___addtf3
+ .idata$5       0x00000005b9d812c8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+                0x00000005b9d812c8                __imp___divtf3
+ .idata$5       0x00000005b9d812d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+                0x00000005b9d812d0                __imp___extenddftf2
+ .idata$5       0x00000005b9d812d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+                0x00000005b9d812d8                __imp___floatsitf
+ .idata$5       0x00000005b9d812e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+                0x00000005b9d812e0                __imp___powidf2
+ .idata$5       0x00000005b9d812e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+                0x00000005b9d812e8                __imp___subtf3
+ .idata$5       0x00000005b9d812f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+                0x00000005b9d812f0                __imp___trunctfdf2
+ .idata$5       0x00000005b9d812f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000123.o)
+ .idata$5       0x00000005b9d81300        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000002.o)
+ .idata$5       0x00000005b9d81300        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+                0x00000005b9d81300                __imp__gfortran_concat_string
+ .idata$5       0x00000005b9d81308        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+                0x00000005b9d81308                __imp__gfortran_matmul_r8
+ .idata$5       0x00000005b9d81310        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+                0x00000005b9d81310                __imp__gfortran_shape_4
+ .idata$5       0x00000005b9d81318        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+                0x00000005b9d81318                __imp__gfortran_st_open
+ .idata$5       0x00000005b9d81320        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+                0x00000005b9d81320                __imp__gfortran_st_write
+ .idata$5       0x00000005b9d81328        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+                0x00000005b9d81328                __imp__gfortran_st_write_done
+ .idata$5       0x00000005b9d81330        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+                0x00000005b9d81330                __imp__gfortran_stop_string
+ .idata$5       0x00000005b9d81338        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+                0x00000005b9d81338                __imp__gfortran_string_len_trim
+ .idata$5       0x00000005b9d81340        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+                0x00000005b9d81340                __imp__gfortran_transfer_array_write
+ .idata$5       0x00000005b9d81348        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+                0x00000005b9d81348                __imp__gfortran_transfer_character_write
+ .idata$5       0x00000005b9d81350        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+                0x00000005b9d81350                __imp__gfortran_transfer_integer_write
+ .idata$5       0x00000005b9d81358        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+                0x00000005b9d81358                __imp__gfortran_transfer_logical_write
+ .idata$5       0x00000005b9d81360        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+                0x00000005b9d81360                __imp__gfortran_transfer_real128_write
+ .idata$5       0x00000005b9d81368        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+                0x00000005b9d81368                __imp__gfortran_transfer_real_write
+ .idata$5       0x00000005b9d81370        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001567.o)
+ .idata$5       0x00000005b9d81378        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000002.o)
+ .idata$5       0x00000005b9d81378        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+                0x00000005b9d81378                __imp_powq
+ .idata$5       0x00000005b9d81380        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000124.o)
+ .idata$5       0x00000005b9d81388        0x0 /usr/lib/w32api/libkernel32.a(drpsh.o)
+ .idata$5       0x00000005b9d81388        0x8 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+                0x00000005b9d81388                __imp_GetModuleHandleA
+ .idata$5       0x00000005b9d81390        0x8 /usr/lib/w32api/libkernel32.a(drpst.o)
+                0x00000005b9d81398                __IAT_end__ = .
+ SORT(*)(.idata$6)
+ .idata$6       0x00000005b9d81398       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o)
+ .idata$6       0x00000005b9d813a8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+                0x00000005b9d813a8                __nm__impure_ptr
+ .idata$6       0x00000005b9d813b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000180.o)
+ .idata$6       0x00000005b9d813c0        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000257.o)
+ .idata$6       0x00000005b9d813cc        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000333.o)
+ .idata$6       0x00000005b9d813d4       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000373.o)
+ .idata$6       0x00000005b9d813e8       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000375.o)
+ .idata$6       0x00000005b9d813fc       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000403.o)
+ .idata$6       0x00000005b9d8140c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000462.o)
+ .idata$6       0x00000005b9d81414        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000579.o)
+ .idata$6       0x00000005b9d8141c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000830.o)
+ .idata$6       0x00000005b9d81424        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000832.o)
+ .idata$6       0x00000005b9d8142c        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000898.o)
+ .idata$6       0x00000005b9d81438        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000909.o)
+ .idata$6       0x00000005b9d81444        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000926.o)
+ .idata$6       0x00000005b9d81450        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000931.o)
+ .idata$6       0x00000005b9d8145c       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001015.o)
+ .idata$6       0x00000005b9d81470        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001038.o)
+ .idata$6       0x00000005b9d81478        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001196.o)
+ .idata$6       0x00000005b9d81484        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001366.o)
+ .idata$6       0x00000005b9d8148c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001480.o)
+ .idata$6       0x00000005b9d81494        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001500.o)
+ .idata$6       0x00000005b9d814a0        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+ .idata$6       0x00000005b9d814ac        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+ .idata$6       0x00000005b9d814b8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+ .idata$6       0x00000005b9d814c8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+ .idata$6       0x00000005b9d814d8        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+ .idata$6       0x00000005b9d814e4        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+ .idata$6       0x00000005b9d814f0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+ .idata$6       0x00000005b9d81500       0x1c /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+ .idata$6       0x00000005b9d8151c       0x18 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+ .idata$6       0x00000005b9d81534       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+ .idata$6       0x00000005b9d81548       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+ .idata$6       0x00000005b9d8155c       0x18 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+ .idata$6       0x00000005b9d81574       0x1c /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+ .idata$6       0x00000005b9d81590       0x18 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+ .idata$6       0x00000005b9d815a8       0x1c /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+ .idata$6       0x00000005b9d815c4       0x24 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+ .idata$6       0x00000005b9d815e8       0x28 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+ .idata$6       0x00000005b9d81610       0x24 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+ .idata$6       0x00000005b9d81634       0x24 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+ .idata$6       0x00000005b9d81658       0x24 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+ .idata$6       0x00000005b9d8167c       0x20 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+ .idata$6       0x00000005b9d8169c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+ .idata$6       0x00000005b9d816a4       0x14 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+ SORT(*)(.idata$7)
+ .idata$7       0x00000005b9d816b8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000015.o)
+ .idata$7       0x00000005b9d816bc        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000115.o)
+ .idata$7       0x00000005b9d816c0        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000180.o)
+ .idata$7       0x00000005b9d816c4        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000257.o)
+ .idata$7       0x00000005b9d816c8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000333.o)
+ .idata$7       0x00000005b9d816cc        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000373.o)
+ .idata$7       0x00000005b9d816d0        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000375.o)
+ .idata$7       0x00000005b9d816d4        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000403.o)
+ .idata$7       0x00000005b9d816d8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000462.o)
+ .idata$7       0x00000005b9d816dc        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000579.o)
+ .idata$7       0x00000005b9d816e0        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000830.o)
+ .idata$7       0x00000005b9d816e4        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000832.o)
+ .idata$7       0x00000005b9d816e8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000898.o)
+ .idata$7       0x00000005b9d816ec        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000909.o)
+ .idata$7       0x00000005b9d816f0        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000926.o)
+ .idata$7       0x00000005b9d816f4        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d000931.o)
+ .idata$7       0x00000005b9d816f8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001015.o)
+ .idata$7       0x00000005b9d816fc        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001038.o)
+ .idata$7       0x00000005b9d81700        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001196.o)
+ .idata$7       0x00000005b9d81704        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001366.o)
+ .idata$7       0x00000005b9d81708        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001480.o)
+ .idata$7       0x00000005b9d8170c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001500.o)
+ .idata$7       0x00000005b9d81710        0xc /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(d001717.o)
+                0x00000005b9d81710                cygwin1_dll_iname
+ .idata$7       0x00000005b9d8171c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000022.o)
+ .idata$7       0x00000005b9d81720        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000042.o)
+ .idata$7       0x00000005b9d81724        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000049.o)
+ .idata$7       0x00000005b9d81728        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000070.o)
+ .idata$7       0x00000005b9d8172c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000107.o)
+ .idata$7       0x00000005b9d81730        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000111.o)
+ .idata$7       0x00000005b9d81734        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000115.o)
+ .idata$7       0x00000005b9d81738       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc_s.dll.a(d000123.o)
+                0x00000005b9d81738                cyggcc_s_seh_1_dll_iname
+ .idata$7       0x00000005b9d8174c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000174.o)
+ .idata$7       0x00000005b9d81750        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000435.o)
+ .idata$7       0x00000005b9d81754        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d000846.o)
+ .idata$7       0x00000005b9d81758        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001195.o)
+ .idata$7       0x00000005b9d8175c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001203.o)
+ .idata$7       0x00000005b9d81760        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001204.o)
+ .idata$7       0x00000005b9d81764        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001210.o)
+ .idata$7       0x00000005b9d81768        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001213.o)
+ .idata$7       0x00000005b9d8176c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001247.o)
+ .idata$7       0x00000005b9d81770        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001251.o)
+ .idata$7       0x00000005b9d81774        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001258.o)
+ .idata$7       0x00000005b9d81778        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001260.o)
+ .idata$7       0x00000005b9d8177c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001263.o)
+ .idata$7       0x00000005b9d81780        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001264.o)
+ .idata$7       0x00000005b9d81784       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgfortran.dll.a(d001567.o)
+                0x00000005b9d81784                cyggfortran_4_dll_iname
+ .idata$7       0x00000005b9d81798        0x4 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000103.o)
+ .idata$7       0x00000005b9d8179c       0x14 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libquadmath.dll.a(d000124.o)
+                0x00000005b9d8179c                cygquadmath_0_dll_iname
+ .idata$7       0x00000005b9d817b0        0x4 /usr/lib/w32api/libkernel32.a(drpss00650.o)
+ .idata$7       0x00000005b9d817b4       0x10 /usr/lib/w32api/libkernel32.a(drpst.o)
+                0x00000005b9d817b4                __lib64_libkernel32_a_iname
+
+.CRT            0x00000005b9d82000        0x0
+                0x00000005b9d82000                ___crt_xc_start__ = .
+ *(SORT(.CRT$XC*))
+                0x00000005b9d82000                ___crt_xc_end__ = .
+                0x00000005b9d82000                ___crt_xi_start__ = .
+ *(SORT(.CRT$XI*))
+                0x00000005b9d82000                ___crt_xi_end__ = .
+                0x00000005b9d82000                ___crt_xl_start__ = .
+ *(SORT(.CRT$XL*))
+                0x00000005b9d82000                ___crt_xp_start__ = .
+ *(SORT(.CRT$XP*))
+                0x00000005b9d82000                ___crt_xp_end__ = .
+                0x00000005b9d82000                ___crt_xt_start__ = .
+ *(SORT(.CRT$XT*))
+                0x00000005b9d82000                ___crt_xt_end__ = .
+
+.tls            0x00000005b9d82000        0x0
+                0x00000005b9d82000                ___tls_start__ = .
+ *(.tls$AAA)
+ *(.tls)
+ *(.tls$)
+ *(SORT(.tls$*))
+ *(.tls$ZZZ)
+                0x00000005b9d82000                ___tls_end__ = .
+
+.endjunk        0x00000005b9d82000        0x0
+                [!provide]                        PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                0x00000005b9d82000                __end__ = .
+
+.rsrc
+ *(.rsrc)
+ *(.rsrc$*)
+
+.reloc          0x00000005b9d82000      0x200
+ *(.reloc)
+ .reloc         0x00000005b9d82000       0x18 dll stuff
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges  0x00000005b9d83000      0x200
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000005b9d83000       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_aranges
+                0x00000005b9d83030       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_aranges
+                0x00000005b9d83060       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_aranges
+                0x00000005b9d83090       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_aranges
+                0x00000005b9d830c0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_aranges
+                0x00000005b9d830f0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_aranges
+                0x00000005b9d83120       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_aranges
+                0x00000005b9d83150       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_aranges
+                0x00000005b9d83180       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_aranges
+                0x00000005b9d831b0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+.zdebug_aranges
+ *(.zdebug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.zdebug_pubnames
+ *(.zdebug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.zdebug_pubtypes
+ *(.zdebug_pubtypes)
+
+.debug_info     0x00000005b9d84000    0x18200
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000005b9d84000     0x5328 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_info    0x00000005b9d89328     0x24bf /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_info    0x00000005b9d8b7e7     0x298f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_info    0x00000005b9d8e176     0xaece /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_info    0x00000005b9d99044      0x20d /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_info    0x00000005b9d99251      0x20d /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_info    0x00000005b9d9945e      0x20d /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_info    0x00000005b9d9966b      0x20d /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_info    0x00000005b9d99878      0x1e5 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_info    0x00000005b9d99a5d     0x270e /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+.zdebug_info
+ *(.zdebug_info .zdebug.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000005b9d9d000     0x1200
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000005b9d9d000      0x338 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_abbrev  0x00000005b9d9d338      0x1c8 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_abbrev  0x00000005b9d9d500      0x23b /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_abbrev  0x00000005b9d9d73b      0x6ed /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_abbrev  0x00000005b9d9de28       0x51 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_abbrev  0x00000005b9d9de79       0x51 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_abbrev  0x00000005b9d9deca       0x51 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_abbrev  0x00000005b9d9df1b       0x51 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_abbrev  0x00000005b9d9df6c       0x2a /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_abbrev  0x00000005b9d9df96      0x20f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+.zdebug_abbrev
+ *(.zdebug_abbrev)
+
+.debug_line     0x00000005b9d9f000     0x1800
+ *(.debug_line)
+ .debug_line    0x00000005b9d9f000      0x38b /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_line    0x00000005b9d9f38b      0x26f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_line    0x00000005b9d9f5fa      0x3a6 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_line    0x00000005b9d9f9a0      0x8b2 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_line    0x00000005b9da0252       0x6f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_line    0x00000005b9da02c1       0x6f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_line    0x00000005b9da0330       0x6f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_line    0x00000005b9da039f       0x6f /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_line    0x00000005b9da040e       0x77 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_line    0x00000005b9da0485      0x1d1 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+.zdebug_line
+ *(.zdebug_line)
+
+.debug_frame    0x00000005b9da1000      0x400
+ *(.debug_frame)
+ .debug_frame   0x00000005b9da1000       0x80 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_frame   0x00000005b9da1080       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_frame   0x00000005b9da10b0       0x40 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_frame   0x00000005b9da10f0       0x50 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_frame   0x00000005b9da1140       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_frame   0x00000005b9da1170       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_frame   0x00000005b9da11a0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_frame   0x00000005b9da11d0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_frame   0x00000005b9da1200       0x30 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+
+.zdebug_frame
+ *(.zdebug_frame)
+
+.debug_str      0x00000005b9da2000      0x400
+ *(.debug_str)
+ .debug_str     0x00000005b9da2000       0x32 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_str     0x00000005b9da2032        0xe /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_str     0x00000005b9da2040       0x42 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_str     0x00000005b9da2082      0x26e /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_str     0x00000005b9da22f0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain0.o)
+ .debug_str     0x00000005b9da22f0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain1.o)
+ .debug_str     0x00000005b9da22f0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain2.o)
+ .debug_str     0x00000005b9da22f0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(premain3.o)
+ .debug_str     0x00000005b9da22f0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_str     0x00000005b9da22f0       0x22 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/libgcc.a(_ctors.o)
+
+.zdebug_str
+ *(.zdebug_str)
+
+.debug_loc      0x00000005b9da3000      0x800
+ *(.debug_loc)
+ .debug_loc     0x00000005b9da3000      0x4d2 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_loc     0x00000005b9da34d2       0xab /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_loc     0x00000005b9da357d      0x169 /usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+
+.zdebug_loc
+ *(.zdebug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.zdebug_macinfo
+ *(.zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.zdebug_weaknames
+ *(.zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.zdebug_funcnames
+ *(.zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.zdebug_typenames
+ *(.zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.zdebug_varnames
+ *(.zdebug_varnames)
+
+.debug_macro
+ *(.debug_macro)
+
+.zdebug_macro
+ *(.zdebug_macro)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.zdebug_ranges
+ *(.zdebug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+
+.zdebug_types
+ *(.zdebug_types .zdebug.gnu.linkonce.wt.*)
+
+.debug_gdb_scripts
+ *(.debug_gdb_scripts)
+
+.zdebug_gdb_scripts
+ *(.zdebug_gdb_scripts)
+OUTPUT(quadlib.so pei-x86-64)
+LOAD dll stuff
